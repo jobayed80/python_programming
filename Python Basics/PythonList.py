@@ -1,7 +1,7 @@
 
 
 
-# Access List ///______________
+# _____________ // Access List ///______________
 print("\n")
 print("....................... Access list ............................")
 info = ["name: Jobayed", "age:25", "weight: 75kg", "height: 145", "Region: Camberwell"]
